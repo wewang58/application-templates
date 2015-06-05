@@ -22,7 +22,7 @@
                 "tags": [
                     {
                         "name": "3.0",
-                        "dockerImageReference": "registry.access.redhat.com/jboss-webserver-3/tomcat7-openshift:3.0"
+                        "dockerImageReference": "ce-registry.usersys.redhat.com/jboss-webserver-3/tomcat7-openshift:3.0"
                     }
                 ]
             }
