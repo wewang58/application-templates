@@ -29,7 +29,7 @@
         },
         {
             "description": "Git source URI for application",
-            "name": "GIT_URI"，
+            "name": "GIT_URI",
             "value": "https://github.com/goldmann/openshift-eap-examples.git"
         },
         {
