@@ -29,7 +29,8 @@
         },
         {
             "description": "Git source URI for application",
-            "name": "GIT_URI"
+            "name": "GIT_URI"，
+            "value": "https://github.com/goldmann/openshift-eap-examples.git"
         },
         {
             "description": "Git branch/tag reference",
@@ -39,7 +40,7 @@
         {
             "description": "Path within Git project to build; empty for root project directory.",
             "name": "GIT_CONTEXT_DIR",
-            "value": ""
+            "value": "spring-eap6-quickstart"
         },
         {
             "description": "Github trigger secret",
